@@ -1,4 +1,7 @@
 # image-classification
+
+NOTE: Choose any dataset
+
 Description: Build an image classification model using deep learning frameworks like TensorFlow or PyTorch. Train the model on a dataset (e.g., CIFAR-10, ImageNet) to classify images into 
 specific categories.
 Building an image classification model using deep learning frameworks like TensorFlow or PyTorch typically involves the following steps:
