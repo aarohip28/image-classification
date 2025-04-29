@@ -32,7 +32,9 @@ image-classification/
 └── requirements.txt
 
 ## 🚀 Getting Started
+
 Prerequisites
 Python 3.x
+
 
 pip (Python package installer)
