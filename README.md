@@ -51,3 +51,21 @@ pip install -r requirements.txt
 ## Run the Jupyter Notebook:
 
 jupyter notebook imageclassification.ipynb
+
+## 🧪 Usage
+1.Load Dataset: Choose a dataset (e.g., CIFAR-10, ImageNet) and load it into the notebook.
+
+2.Preprocess Data: Perform necessary preprocessing steps such as resizing, normalization, and data augmentation.
+
+3.Define Model: Select and define the architecture of the deep learning model.
+
+4.Compile Model: Specify the optimizer, loss function, and metrics for evaluation.
+
+5.Train Model: Train the model on the preprocessed training data.
+
+6.Evaluate Model: Assess the model's performance on validation data and make adjustments as needed.
+
+7.Test Model: Test the final model on new, unseen data to evaluate its generalization.​
+
+## 📄 License
+This project is licensed under the MIT License.
