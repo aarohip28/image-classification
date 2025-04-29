@@ -24,17 +24,18 @@ Libraries: NumPy, Pandas, Matplotlib, OpenCV
 Development Environment: Jupyter Notebook
 
 ## 📂 Project Structure
-Copy
-Edit
 image-classification/
+
 ├── imageclassification.ipynb  # Jupyter Notebook with code and explanations
+
 ├── README.md                  # Project documentation
+
 └── requirements.txt
 
 ## 🚀 Getting Started
 
-Prerequisites
-Python 3.x
+Prerequisite
 
+Python 3.x
 
 pip (Python package installer)
