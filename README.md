@@ -34,8 +34,20 @@ image-classification/
 
 ## 🚀 Getting Started
 
-Prerequisite
-
 Python 3.x
 
 pip (Python package installer)
+
+## Clone the repository:
+
+git clone https://github.com/aarohip28/image-classification.git
+
+cd image-classification
+
+## Install the required packages:
+
+pip install -r requirements.txt
+
+## Run the Jupyter Notebook:
+
+jupyter notebook imageclassification.ipynb
